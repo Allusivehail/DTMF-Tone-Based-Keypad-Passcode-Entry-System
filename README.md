@@ -1,1 +1,2 @@
 # DTMF-Tone-Based-Keypad-Passcode-Entry-System
+Final project for CPE 3500 Digital Signal Processing, a combination of a nucleo-L47RG and audio boost XL board to create an embedded device that records DTMF tones, runs a FFT alogrithm to determine the number pressed, and then once recording and deciphering 4 numbers alerts the user with a buzz or a beep if they have gotten the passcode right or wrong.
